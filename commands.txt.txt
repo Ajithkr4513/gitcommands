@@ -1,0 +1,3 @@
+git init=>git initilaztion
+
+git status=>list untracked files

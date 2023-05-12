@@ -11,3 +11,5 @@ git clone=> remote repositary to local space
 
 gitpush=> local space to remote repositary
 git pull=> remote repositary to local space
+
+git remote add name remote_path

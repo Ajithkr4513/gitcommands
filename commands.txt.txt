@@ -13,3 +13,5 @@ gitpush=> local space to remote repositary
 git pull=> remote repositary to local space
 
 git remote add name remote_path
+
+git remove -v list all remote names
